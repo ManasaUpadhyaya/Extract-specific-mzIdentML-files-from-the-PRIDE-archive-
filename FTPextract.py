@@ -29,12 +29,3 @@ for line in file:
                 # mzIdentML_processor.processor(mz_name)
             mzIdentML_processor.processor(mz_name)
             break
-
-
-
-
-
-
-
-
-
